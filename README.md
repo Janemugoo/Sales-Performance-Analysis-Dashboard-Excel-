@@ -97,7 +97,7 @@ If you'd like to connect or collaborate:
 
 - **Name**: Jane Mugo
 - **Email**: nkipai.jane@gmail.com
-- **LinkedIn**: [linkedin.com/in/jane-mugo](https://linkedin.com/in/your-link)
+- **LinkedIn**: [www.linkedin.com/in/jane-mugo-5ab1591b5]
 
 ---
 
